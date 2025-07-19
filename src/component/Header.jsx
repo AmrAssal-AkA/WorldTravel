@@ -20,7 +20,7 @@ return (
             <Nav.Link href="/" className="hover:text-4xl">Home</Nav.Link>
             <Nav.Link href='/Packages' className="hover:text-4xl">Packages</Nav.Link>
             <Nav.Link href='Destination' className="hover:text-4xl">Destination</Nav.Link>
-            <Nav.Link href='/Aboutus' className="hover:text-4xl">About us</Nav.Link>
+            <Nav.Link href='/Blog' className="hover:text-4xl">Blog</Nav.Link>
         </Nav>
             <Form className="d-flex">
             <Button variant="outline-dark">Book Now </Button>

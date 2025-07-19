@@ -26,7 +26,7 @@ export function CarouselHolder(){
 
 export function TripCustomize(){
   return (
-      <div className=' bg-white p-8 rounded-lg shadow-lg border border-gray-200 max-w-4xl mx-auto my-10'>
+      <div className=' bg-white p-8 rounded-lg shadow-lg border border-gray-200 max-w-7xl mx-auto my-10'>
       <h1 className='text-2xl font-bold text-center text-gray-800 mb-8'> Custimize your Trip </h1>
       <form className='grid grid-cols-1 md:grid-cols-2 gap-6" '>
         <div className='relative'>

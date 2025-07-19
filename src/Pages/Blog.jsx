@@ -1,12 +1,12 @@
 import React from 'react'
 
 
-function Aboutus() {
+function Blog() {
   return (
     <div>
-
+        Blog
     </div>
   )
 }
 
-export default Aboutus
+export default Blog

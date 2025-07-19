@@ -6,7 +6,7 @@ import Footer from './component/footer';
 import Home from './Pages/Home';
 import Package from './Pages/Packages';
 import Destination from './Pages/Destination';
-import Aboutus from './Pages/Aboutus';
+import Blog from './Pages/Blog';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
       <Route index element={<Home />} />
       <Route path='/Packages' element={<Package/>} />
       <Route path='/Destination' element={<Destination/>} />
-      <Route path='/Aboutus' element={<Aboutus/>} />
+      <Route path='/Blog' element={<Blog/>} />
     </Routes>
     <Footer />
     </BrowserRouter>

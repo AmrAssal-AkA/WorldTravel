@@ -12,6 +12,7 @@
     display: inline-block;
 }
 .card .card-image{
+    margin-bottom: 20px;
     max-width: 60%;
     height: auto;
     border-radius: 50%;
