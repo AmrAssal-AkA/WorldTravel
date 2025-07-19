@@ -12,7 +12,7 @@ import Destination9 from '../assets/Destination Page/Germany.jpeg';
 function Destination() {
   return (
     <div>
-      <h2 className='text-center text-3xl'>Top Destinations </h2>
+      <h1 className='text-center underline'>Top Destinations </h1>
     <div className='lg:ml-20'>
         <div className='grid grid-cols-3 md:ml-10 mt-15 '>
             <div className='card '>

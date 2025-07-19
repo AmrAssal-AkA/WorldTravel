@@ -17,7 +17,7 @@ return (
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-            <Nav.Link href="/" className="hover:text-4xl">Home</Nav.Link>
+            <Nav.Link href="/" className="hover:text-4xl" >Home</Nav.Link>
             <Nav.Link href='/Packages' className="hover:text-4xl">Packages</Nav.Link>
             <Nav.Link href='Destination' className="hover:text-4xl">Destination</Nav.Link>
             <Nav.Link href='/Blog' className="hover:text-4xl">Blog</Nav.Link>

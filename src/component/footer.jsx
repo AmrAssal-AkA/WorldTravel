@@ -42,7 +42,7 @@ return (
         </div>
     </div>
         <div className='border-t border-t-amber-50'>
-            <p className='text-amber-50 mb-0 text-2xl text-center'>&copy; 2025 Code with AmrAssal. All Right Resorved</p>
+            <p className='text-amber-50 mb-0 text-2xl text-center'>&copy; 2025 Code with AmrAssal. All Right Reserved</p>
         </div>
     </div>
     )   

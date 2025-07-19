@@ -14,7 +14,7 @@ export function CarouselHolder(){
   return (
       <Carousel >
       <div>
-        <img src={image1}/>
+        <img src={image1} alt='Carousel image 1 reference to Company Banner '/>
       </div>
       <div>
         <img src={image2} />
