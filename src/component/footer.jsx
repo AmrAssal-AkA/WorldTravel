@@ -10,7 +10,7 @@ return (
     <div className='bg-blue-500 px-4 md:px-16 lg:px-28'>
     <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>
         <div>
-            <img src={BrandLogo} alt='worldTravel Logo'/>
+            <img src={BrandLogo} alt='worldTravel Logo'/> 
         <p className='text-white'>
             We hope Your Journey with us has admired you , and are proud becouse you choose us .
         </p>
@@ -33,11 +33,11 @@ return (
             <a href='' className='text-white hover:text-3xl' ><FaFacebook className='text-blue-900'/></a></li>
             <li>
                 
-                <a href='' className='text-white hover:text-2xl' ><FaX /></a></li>
-            <li><a href='' className='text-white hover:text-2xl' > <FaInstagram /></a></li>
+                <a href='' className='text-white hover:text-2xl' ><FaX className='text-black'/></a></li>
+            <li><a href='' className='text-white hover:text-2xl' > <FaInstagram className='text-red-600'/></a></li>
             <li>
                 
-                <a href='' className='text-white hover:text-2xl' ><FaSnapchat /></a></li>
+                <a href='' className='text-white hover:text-2xl' ><FaSnapchat className='text-yellow-300'/></a></li>
         </ul>
         </div>
     </div>

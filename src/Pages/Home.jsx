@@ -1,9 +1,9 @@
 import React from 'react'
 import { Carousel } from 'react-responsive-carousel'
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import image1 from '../assets/carousal/First.svg'
-import image2 from '../assets/carousal/second.svg'
-import image3 from '../assets/carousal/third (1).svg'
+import image1 from '../assets/carousal/First.jpg'
+import image2 from '../assets/carousal/second.jpg'
+import image3 from '../assets/carousal/third.jpg'
 import CardImg1 from '../../src/assets/Cards/Trip1.jpeg'
 import CardImg2 from '../../src/assets/Cards/Trip2.jpg'
 import CardImg3 from '../../src/assets/Cards/Trip3.jpeg'
@@ -60,7 +60,7 @@ export function CardHolder(){
 return(
   <>
     <h1 className='text-center underline'>Here's are some Packages we offer</h1>
-    <div className='grid grid-cols-3 md:ml-10'>
+    <div className='grid grid-cols-3 lg:ml-25'>
     <div className='card '>
     <img  src={CardImg1} alt='A photo of dubai trip' className='card-image'/>
     <h2 className='card-title'>Dubai Trip Pacakage</h2>
